@@ -1,7 +1,7 @@
 {
     "name": "restrict-cli",
     "version": "1.0.0",
-    "description": "一个vue+webpack的脚手架，命令行工具",
+    "description": "一个vue+webpack的快速的高性能的脚手架.",
     "main": "index.js",
     "bin": {
         "restrict-cli": "bin/restrict-cli.js",
